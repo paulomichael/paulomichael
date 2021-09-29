@@ -21,3 +21,5 @@ My name is Paulo and I'm a WebDev student who enjoys working with creative, effi
 
 ### Contact
  [Linkedin](https://www.linkedin.com/in/paulo-michael-schweigert-pereira)
+ 
+ [Email](paulo.michael+github@gmail.com)
