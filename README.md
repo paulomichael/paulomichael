@@ -32,6 +32,11 @@ My name is Paulo and I'm a WebDev student who enjoys working with creative, effi
 )
 
 ### Contact
+[![](https://img.shields.io/badge/Linkedin--informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/paulo-michael-schweigert-pereira)
+
+[![](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](paulo.michael+github@gmail.com)
+
+
  [Linkedin](https://www.linkedin.com/in/paulo-michael-schweigert-pereira)
  
  [Email](paulo.michael+github@gmail.com)
