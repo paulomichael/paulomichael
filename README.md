@@ -5,8 +5,6 @@
 ### About
 My name is Paulo and I'm a Web Developer who enjoys working with creative, efficient and modular ideas/solutions to the most varied problems.
 
-### Projects
-⬇️ Pinned down below ⬇️
 
 
 ### Technologies & Tools
@@ -35,13 +33,17 @@ My name is Paulo and I'm a Web Developer who enjoys working with creative, effic
 ![](https://img.shields.io/badge/Back_End-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Back_End-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 
-[](Commented)
-[]()
-[](
-)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulomichael&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomichael&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Contact
 [![](https://img.shields.io/badge/Linkedin--informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/paulo-michael-schweigert-pereira)
 
 
 [![](https://img.shields.io/badge/Email--informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:paulo.michael+github@gmail.com)
+
+### Projects
+⬇️ Pinned down below ⬇️
