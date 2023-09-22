@@ -3,7 +3,7 @@
 ### 
 
 ### About
-My name is Paulo and I'm a Web Developer who enjoys working with creative, efficient and modular ideas/solutions to the most varied problems.
+My name is Paulo and I'm a Developer who enjoys working with creative, efficient and modular ideas/solutions to the most varied problems.
 
 
 
